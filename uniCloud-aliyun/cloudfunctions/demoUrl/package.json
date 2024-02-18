@@ -1,0 +1,9 @@
+{
+  "name": "demoUrl",
+  "dependencies": {
+    "demo-utils": "file:../common/demo-utils"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
